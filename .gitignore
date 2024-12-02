@@ -1,0 +1,10 @@
+#build
+a.exe
+~.exe
+
+#env
+.env
+.env.local
+
+#vscode
+.vscode
