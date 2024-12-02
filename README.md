@@ -2,7 +2,6 @@
 
 ![RLunar Logo](https://via.placeholder.com/150)
 
-
 ## Descripción
 
 RLunar es un lenguaje de programación innovador y complejo diseñado para aquellos que buscan llevar sus habilidades de codificación al siguiente nivel. Inspirado en la belleza y el misterio de la luna, RLunar ofrece una sintaxis única y poderosa que permite a los desarrolladores crear aplicaciones robustas y eficientes.
