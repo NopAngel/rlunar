@@ -181,7 +181,7 @@ int main(int argc, char* argv[]) {
     auto ast = parser.parse();
 
     double result = evaluate(ast);
-    std::cout << "CLI: " << result << std::endl;
+    std::cout << "RESULT: " << result << std::endl;
 
     return 0;
 }
